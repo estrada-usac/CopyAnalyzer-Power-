@@ -1,4 +1,4 @@
-iNFO GRAMATICA 2:
+iNFO GRAMATICA 2: 2_ejemploGram2
 faltaria:
  los break , y el break en default
  los puntos y coma donde los piden
