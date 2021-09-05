@@ -1,2 +1,2 @@
 Apartado Trabajo De Erick
-V 0.11
+V 0.12
